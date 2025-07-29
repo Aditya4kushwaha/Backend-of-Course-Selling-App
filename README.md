@@ -7,17 +7,17 @@ This is a Node.js backend for a Course Selling Platform. It handles user/admin a
 ## 📁 Folder Structure
 
 course-selling/
--├── middleware/          # Contains authentication and other middleware
--├── node_modules/        # Project dependencies
--├── routes/              # Route handlers for users, admins, and courses
--├── .env                 # Environment-specific variables (not committed)
--├── .env.example         # Sample environment config
--├── .gitignore           # Files/folders to ignore in Git
--├── config.js            # Configuration and constants
--├── db.js                # MongoDB connection logic
--├── index.js             # Application entry point
--├── package.json         # Project metadata and scripts
--└── package-lock.json    # Exact versions of installed packages
+├── middleware/          
+├── node_modules/        
+├── routes/             
+├── .env                
+├── .env.example         
+├── .gitignore           
+├── config.js            
+├── db.js                
+├── index.js            
+├── package.json         
+└── package-lock.json    
 
 
 
