@@ -7,6 +7,7 @@ This is a Node.js backend for a Course Selling Platform. It handles user/admin a
 ## 📁 Folder Structure
 
 course-selling/
+
 ├── middleware/          
 ├── node_modules/        
 ├── routes/             
