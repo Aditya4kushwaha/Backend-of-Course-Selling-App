@@ -48,3 +48,19 @@ course-selling/
 git clone https://github.com/Aditya4kushwaha/Backend-of-Course-Selling-App.git
 cd course-selling-backend
 npm install
+```
+## 🛠️ Setup
+
+Create a `.env` file in the root directory and add:
+
+```env
+PORT=3000
+MONGO_URI=mongodb://localhost:27017/courseselling
+JWT_SECRET=your_jwt_secret
+```
+
+## Run the backend server
+```bash
+npm start        # For production use
+npm run dev      # Requires nodemon
+
