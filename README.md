@@ -39,7 +39,7 @@ course-selling/
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB (Mongoose)
 - **Authentication**: JWT, bcrypt
-- 
+  
 ---
 
 ## 🔧 Installation
