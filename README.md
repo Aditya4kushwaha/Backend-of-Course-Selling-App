@@ -45,6 +45,6 @@ course-selling/
 ## 🔧 Installation
 
 ```bash
-git clone https://github.com/your-username/course-selling-backend.git
+git clone https://github.com/Aditya4kushwaha/Backend-of-Course-Selling-App.git
 cd course-selling-backend
 npm install
